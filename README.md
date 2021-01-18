@@ -1,1 +1,2 @@
-# notes
+# Blog Site
+xjliang's blog.
